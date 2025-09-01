@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Alex Segovia
 
 <a href="https://www.linkedin.com/in/alex-segovia-210391291/">
-  <img align="right" alt="Alex's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Alex's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:alexsegovia654@gmail.com">
-  <img align="right" alt="Alex's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="right" alt="Alex's Email" width="90px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br>
